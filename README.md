@@ -15,11 +15,13 @@
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +78,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->

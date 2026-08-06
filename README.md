@@ -48,6 +48,7 @@
 | [0189-rotate-array](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0877-stone-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [2469-convert-the-temperature](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |

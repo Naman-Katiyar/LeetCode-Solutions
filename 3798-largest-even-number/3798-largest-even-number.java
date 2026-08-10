@@ -2,7 +2,7 @@ class Solution {
     public String largestEven(String s) {
         int n = s.length();
 
-        if (s.charAt(n - 1) - '0' == 2) {
+        if (s.charAt(n - 1) == '2') {
             return s;
         }
 

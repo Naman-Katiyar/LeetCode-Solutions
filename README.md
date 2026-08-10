@@ -55,6 +55,7 @@
 | [0877-stone-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [2469-convert-the-temperature](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -64,6 +65,7 @@
 | [0877-stone-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -71,16 +73,19 @@
 | [0877-stone-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +125,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->

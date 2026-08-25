@@ -60,6 +60,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

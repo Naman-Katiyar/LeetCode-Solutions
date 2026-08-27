@@ -38,6 +38,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3798-largest-even-number](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3798-largest-even-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +160,7 @@
 | [2029-stone-game-ix](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +191,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

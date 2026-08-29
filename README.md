@@ -60,6 +60,7 @@
 | [2029-stone-game-ix](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -132,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
@@ -212,4 +214,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 <!---LeetCode Topics End-->

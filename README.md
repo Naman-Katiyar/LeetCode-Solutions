@@ -53,6 +53,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0877-stone-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |

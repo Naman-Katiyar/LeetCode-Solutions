@@ -35,6 +35,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1927-sum-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0877-stone-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |

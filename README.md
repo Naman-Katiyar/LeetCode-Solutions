@@ -95,6 +95,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |

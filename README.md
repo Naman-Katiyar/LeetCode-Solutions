@@ -18,12 +18,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -165,6 +167,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |

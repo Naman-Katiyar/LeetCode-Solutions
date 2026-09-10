@@ -14,12 +14,14 @@
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -34,6 +36,7 @@
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

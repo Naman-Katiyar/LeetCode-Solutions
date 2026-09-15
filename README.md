@@ -65,6 +65,7 @@
 | [0283-move-zeroes](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0542-01-matrix](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
+| [0835-image-overlap](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -258,6 +259,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
+| [0835-image-overlap](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |

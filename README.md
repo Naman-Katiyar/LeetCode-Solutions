@@ -94,6 +94,7 @@
 | [0268-missing-number](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0877-stone-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -273,4 +274,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->

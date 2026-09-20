@@ -50,6 +50,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3798-largest-even-number](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3798-largest-even-number/) | Easy |
 ## Design
@@ -243,6 +244,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

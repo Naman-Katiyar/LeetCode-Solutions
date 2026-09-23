@@ -73,6 +73,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -153,6 +154,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -191,6 +193,7 @@
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -226,6 +229,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -249,6 +253,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |

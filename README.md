@@ -27,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0542-01-matrix](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -45,6 +46,7 @@
 | [0022-generate-parentheses](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -215,6 +217,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Greedy

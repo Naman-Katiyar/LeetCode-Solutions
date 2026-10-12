@@ -46,6 +46,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0139-word-break](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -73,6 +74,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0139-word-break](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0189-rotate-array](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -132,6 +134,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0139-word-break](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0542-01-matrix](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -172,6 +175,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0268-missing-number](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -342,4 +346,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->

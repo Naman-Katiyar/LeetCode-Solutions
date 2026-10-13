@@ -19,6 +19,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -47,6 +48,7 @@
 | [0022-generate-parentheses](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -68,6 +70,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Array
 | Problem Name | Difficulty |
@@ -350,6 +353,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

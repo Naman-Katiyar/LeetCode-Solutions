@@ -64,6 +64,7 @@
 | [1927-sum-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2409-count-days-spent-together](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -133,6 +134,7 @@
 | [1872-stone-game-viii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |

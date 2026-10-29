@@ -11,12 +11,14 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +31,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +78,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3798-largest-even-number](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3798-largest-even-number/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +126,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -304,6 +309,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,4 +408,9 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Naman-Katiyar/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->
